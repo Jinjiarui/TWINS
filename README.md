@@ -6,7 +6,7 @@
   <br />
 </p>
 
-This a `tensorflow` implementations of TWINS model. This is the experiment code in the following work:
+This a `tensorflow` implementation of TWINS model. This is the experiment code in the following work:
 
 
 > Who to Watch Next: Two-side Interactive Networks for Live Broadcast Recommendation </br>
