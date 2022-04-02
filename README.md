@@ -1,4 +1,4 @@
-# TWo-side INteractive NetworkS (TWINS)
+# TWo-side Interactive NetworkS (TWINS)
 
 <p align="center">
   <img src="image/twins.png" width="550">
